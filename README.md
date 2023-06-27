@@ -20,7 +20,8 @@ The difficulty variable can be changed with the values provided in the comment t
 
 The rest of the code is properly commented and self explanatory. Tweaks can be made to change the play style or visuals of the game.
 # Screenshots
-![image](https://github.com/AbdulMoiz28/Snake-Game_Code-In-Place_Graphics-Project/assets/98760302/b73fea70-3419-4ae0-9bb3-d7f7c3979205) Written using PyCharm
+![SnakeGame (ScreenShot)](https://github.com/AbdulMoiz28/Snake-Game_Code-In-Place_Graphics-Project/assets/98760302/ed7bcf51-464d-4c03-b51c-09dea497b49f)
+ Written using VScode Editor
 
 ![image](https://github.com/AbdulMoiz28/Snake-Game_Code-In-Place_Graphics-Project/assets/98760302/c87c38a6-d2e2-41dd-a3a9-efb774990697) Active game screen
 
